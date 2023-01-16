@@ -1,6 +1,10 @@
 import express from 'express';
 const app = express();
 import brawlers from './brawlers.json' assert{ type: "json"};
+import cors from 'cors';
+app.use(cors({
+    origin: "*",
+}))
 
 app.get('/', (req, res) => {
     res.send(brawlers);
