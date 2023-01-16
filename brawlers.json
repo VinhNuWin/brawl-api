@@ -1,5 +1,6 @@
-[
-    {
+{
+    "brawlers": [
+      {
         "id": 564817680225875,
         "name": "Squeak",
         "health": 3360,
@@ -7,8 +8,8 @@
         "range": 7.67,
         "reload": "2.1 seconds",
         "movement speed": 720
-    },
-    {
+      },
+      {
         "id": 270241425941586,
         "name": "Poco",
         "health": 6000,
@@ -405,4 +406,8 @@
         "reload": "2.0 seconds",
         "movement speed": 720
     }
-]
+  ]
+  }
+  
+    
+  
