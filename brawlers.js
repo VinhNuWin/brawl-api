@@ -10,6 +10,8 @@ const brawlers = [
         "movement": 720,
         "image": "https://imgur.com/a/yGGyBVO"
     },
+},
+{
         "Poco": {
             "id": 270241425941586,
             "health": 6000,
@@ -19,6 +21,8 @@ const brawlers = [
             "movement": 720,
             "image": "https://imgur.com/a/yGGyBVO"
     },
+},
+{
         "Pam": {
             "id": 7503072122885093,
             "health": 7200,
@@ -28,6 +32,8 @@ const brawlers = [
             "movement": 720,
             "image": "https://imgur.com/a/yGGyBVO"
     },
+},
+{
         "Griff": {
             "id": 3322223126098713,
             "health": 5100,
@@ -37,6 +43,8 @@ const brawlers = [
             "movement": 720,
             "image": "https://imgur.com/a/yGGyBVO"
     },
+},
+{
         "Rico": {
             "id": 3322223126098723,
             "health": 4200,
@@ -46,6 +54,8 @@ const brawlers = [
             "movement": 720,
             "image": "https://imgur.com/a/yGGyBVO"
     },
+},
+{
         "Barley":{
             "id": 5912603130654450,
             "health": 3600,
@@ -55,6 +65,8 @@ const brawlers = [
             "movement": 720,
             "image": "https://imgur.com/a/yGGyBVO"
     },
+},
+{
         "Frank": {
             "id": 1186200347652610,
             "health": 10500,
