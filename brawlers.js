@@ -62,7 +62,7 @@ const brawlers = {
             "reload": "0.8 seconds",
             "movement": 770,
             "image": "https://imgur.com/a/yGGyBVO"
-    },
+    }
 }
 
 module.exports = brawlers;

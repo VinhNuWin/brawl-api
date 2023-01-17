@@ -11,6 +11,7 @@ app.get('/', (req,res)=>{
 
 app.get('/brawlers/:name', (req, res) => {
     const brawlerName = req.params.name
+
     res.json(brawlers[brawlerName])
 });
 
