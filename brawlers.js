@@ -3,7 +3,6 @@ const brawlers = [
 {
     "id": 564817680225875,
     "Squeak": {
-       "name": "Squeak",
        "health": 3360,
        "attack": 1620,
        "range": 7.67,
