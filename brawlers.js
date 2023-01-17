@@ -47,7 +47,17 @@ const brawlers = {
             "range": 7.33,
             "reload": "2.0 seconds",
             "movement speed": 720
-        }
+        },
+        "Frank": {
+            "id": 1186200347652610,
+            "name": "Frank",
+            "health": 10500,
+            "attack": 1860,
+            "range": 6,
+            "reload": "0.8 seconds",
+            "movement speed": 770,
+            "image": "https://imgur.com/a/yGGyBVO"
+        },
     }
 module.exports = brawlers;
         
@@ -95,16 +105,6 @@ module.exports = brawlers;
         //     "range": 3,
         //     "reload": "1.0 seconds",
         //     "movement speed": 770
-        // },
-        // {
-        //     "id": 1186200347652610,
-        //     "name": "Frank",
-        //     "health": 10500,
-        //     "attack": 1860,
-        //     "range": 6,
-        //     "reload": "0.8 seconds",
-        //     "movement speed": 770,
-        //     "image": "https://imgur.com/a/yGGyBVO"
         // },
         // {
         //     "id": 1041567651939356,
