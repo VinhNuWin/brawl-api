@@ -1,6 +1,8 @@
-const brawlers = {
+
+const brawlers = [
+{
+    "id": 564817680225875,
     "Squeak": {
-       "id": 564817680225875,
        "name": "Squeak",
        "health": 3360,
        "attack": 1620,
@@ -8,57 +10,82 @@ const brawlers = {
        "reload": "2.1 seconds",
        "movement": 720
        },
+    "image": "https://imgur.com/a/yGGyBVO"
+},
+{
+        "id": 270241425941586,
         "Poco": {
-            "id": 270241425941586,
+            "name": "Poco",
             "health": 6000,
             "attack": 1140,
             "range": 7,
             "reload": "1.6 seconds",
             "movement speed": 720
         },
+        "image": "https://imgur.com/a/yGGyBVO"
+    },
+    {
+        "id": 7503072122885093,
         "Pam": {
-            "id": 7503072122885093,
+            "name": "Pam",
             "health": 7200,
             "attack": "390(9)",
             "range": 9,
             "reload": "1.3 seconds",
             "movement speed": 720
         },
+        "image": "https://imgur.com/a/yGGyBVO"
+    },
+    {
+        "id": 3322223126098713,
         "Griff": {
-            "id": 3322223126098713,
+            "name": "Griff",
             "health": 5100,
             "attack": "390(9)",
             "range": 8.33,
             "reload": "1.7 seconds",
             "movement speed": 720
         },
+        "image": "https://imgur.com/a/yGGyBVO"
+    },
+    {
+        "id": 3322223126098723,
         "Rico": {
-            "id": 3322223126098723,
+            "name": "Rico",
             "health": 4200,
             "attack": "480(5)",
             "range": 9.67,
             "reload": "1.2 seconds",
             "movement speed": 720
         },
+        "image": "https://imgur.com/a/yGGyBVO"
+    },
+    {
+        "id": 5912603130654450,
         "Barley":{
-            "id": 5912603130654450,
+            "name": "Barley",
             "health": 3600,
             "attack": "1140(2)",
             "range": 7.33,
             "reload": "2.0 seconds",
             "movement speed": 720
         },
+        "image": "https://imgur.com/a/yGGyBVO"
+    },
+    {
+        "id": 1186200347652610,
         "Frank": {
-            "id": 1186200347652610,
             "name": "Frank",
             "health": 10500,
             "attack": 1860,
             "range": 6,
             "reload": "0.8 seconds",
             "movement speed": 770,
-            "image": "https://imgur.com/a/yGGyBVO"
         },
-    }
+        "image": "https://imgur.com/a/yGGyBVO"
+    },
+]
+
 module.exports = brawlers;
         
         // {
