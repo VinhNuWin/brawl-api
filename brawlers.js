@@ -1,6 +1,6 @@
 
 const brawlers = [
-{
+    {
     "Squeak": {
         "id": 564817680225875,
         "health": 3360,
@@ -16,7 +16,7 @@ const brawlers = [
             "attack": 1140,
             "range": 7,
             "reload": "1.6 seconds",
-            "movement speed": 720,
+            "movement": 720,
             "image": "https://imgur.com/a/yGGyBVO"
     },
         "Pam": {
@@ -25,7 +25,7 @@ const brawlers = [
             "attack": "390(9)",
             "range": 9,
             "reload": "1.3 seconds",
-            "movement speed": 720,
+            "movement": 720,
             "image": "https://imgur.com/a/yGGyBVO"
     },
         "Griff": {
@@ -34,7 +34,7 @@ const brawlers = [
             "attack": "390(9)",
             "range": 8.33,
             "reload": "1.7 seconds",
-            "movement speed": 720,
+            "movement": 720,
             "image": "https://imgur.com/a/yGGyBVO"
     },
         "Rico": {
@@ -43,7 +43,7 @@ const brawlers = [
             "attack": "480(5)",
             "range": 9.67,
             "reload": "1.2 seconds",
-            "movement speed": 720,
+            "movement": 720,
             "image": "https://imgur.com/a/yGGyBVO"
     },
         "Barley":{
@@ -52,7 +52,7 @@ const brawlers = [
             "attack": "1140(2)",
             "range": 7.33,
             "reload": "2.0 seconds",
-            "movement speed": 720,
+            "movement": 720,
             "image": "https://imgur.com/a/yGGyBVO"
     },
         "Frank": {
@@ -61,10 +61,10 @@ const brawlers = [
             "attack": 1860,
             "range": 6,
             "reload": "0.8 seconds",
-            "movement speed": 770,
+            "movement": 770,
             "image": "https://imgur.com/a/yGGyBVO"
     },
-}
+    }
 ]
 
 module.exports = brawlers;
