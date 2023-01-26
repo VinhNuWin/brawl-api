@@ -55,13 +55,14 @@ const brawlers = {
             "image": "https://imgur.com/a/yGGyBVO"
     },
         "Frank": {
+            "name": "Frank",
             "id": 1186200347652610,
             "health": 10500,
             "attack": 1860,
             "range": 6,
             "reload": "0.8 seconds",
             "movement": 770,
-            "image": "https://imgur.com/a/yGGyBVO"
+            "URL": "https://ibb.co/TTV12QN"
     }
 }
 
