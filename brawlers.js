@@ -2,57 +2,63 @@
 const brawlers = {
     "Squeak": {
         "id": 564817680225875,
+        "name": "Squeak",
         "health": 3360,
         "attack": 1620,
         "range": 7.67,
         "reload": "2.1 seconds",
         "movement": 720,
-        "image": "https://imgur.com/a/yGGyBVO"
+        "image": "https://i.ibb.co/CJFMzs0/Squeak.png"
     },
         "Poco": {
             "id": 270241425941586,
+            "name": "Poco",
             "health": 6000,
             "attack": 1140,
             "range": 7,
             "reload": "1.6 seconds",
             "movement": 720,
-            "image": "https://imgur.com/a/yGGyBVO"
+            "image": "https://i.ibb.co/tx3d4P4/Poco.png"
     },
         "Pam": {
             "id": 7503072122885093,
+            "name": "Pam",
             "health": 7200,
             "attack": "390(9)",
             "range": 9,
             "reload": "1.3 seconds",
             "movement": 720,
-            "image": "https://imgur.com/a/yGGyBVO"
+            "image": "https://i.ibb.co/ryZRGzc/Colt.png"
     },
         "Griff": {
             "id": 3322223126098713,
+            "name": "Griff",
             "health": 5100,
             "attack": "390(9)",
             "range": 8.33,
             "reload": "1.7 seconds",
             "movement": 720,
-            "image": "https://imgur.com/a/yGGyBVO"
+            "image": "https://i.ibb.co/8B8QNX0/Griff.png"
     },
         "Rico": {
             "id": 3322223126098723,
+            "name": "Rico",
             "health": 4200,
             "attack": "480(5)",
             "range": 9.67,
             "reload": "1.2 seconds",
             "movement": 720,
-            "image": "https://imgur.com/a/yGGyBVO"
+            "image": "https://i.ibb.co/0jCH4sY/Rico.png"
     },
         "Barley": {
             "id": 5912603130654450,
+            "name": "Barley",
             "health": 3600,
             "attack": "1140(2)",
             "range": 7.33,
             "reload": "2.0 seconds",
             "movement": 720,
-            "image": "https://imgur.com/a/yGGyBVO"
+            "image": "https://i.ibb.co/BGHPCT5/Barley.png"
     },
         "Frank": {
             "name": "Frank",
@@ -62,7 +68,7 @@ const brawlers = {
             "range": 6,
             "reload": "0.8 seconds",
             "movement": 770,
-            "URL": "https://ibb.co/TTV12QN"
+            "URL": "https://i.ibb.co/GJK9pZr/Frank.png"
     }
 }
 
@@ -410,3 +416,62 @@ module.exports = brawlers;
         //     "reload": "2.0 seconds",
         //     "movement speed": 720
         //  ,
+
+
+        // Brawler png URL
+//https://ibb.co/F8mtBQJ][img]https://i.ibb.co/8PNVjy2/8-bit.png[/img][/url]
+// https://ibb.co/YhS8qyY][img]https://i.ibb.co/jDYG1WB/Amber.png[/img][/url]
+// [url=https://ibb.co/1nnCMHh][img]https://i.ibb.co/KGGtDCR/Ash.png[/img][/url]
+// [url=https://ibb.co/W0N32B4][img]https://i.ibb.co/JqWdsrw/Barley.png[/img][/url]
+// [url=https://ibb.co/jGMSSbB][img]https://i.ibb.co/ZK800Gt/Bea.png[/img][/url]
+// [url=https://ibb.co/JtLpJ3t][img]https://i.ibb.co/QQBHwDQ/Belle.png[/img][/url]
+// [url=https://ibb.co/fQ7Kkt8][img]https://i.ibb.co/9Gjfb2w/Bibi.png[/img][/url]
+// [url=https://ibb.co/Tc5nFyb][img]https://i.ibb.co/5TVzfZn/Bonnie.png[/img][/url]
+// [url=https://ibb.co/1RDfk25][img]https://i.ibb.co/NW86MYP/Bull.png[/img][/url]
+// [url=https://ibb.co/Pm07wJx][img]https://i.ibb.co/TvdVmJc/Buster.png[/img][/url]
+// [url=https://ibb.co/3sr6qxc][img]https://i.ibb.co/JdB64YH/Byron.png[/img][/url]
+// [url=https://ibb.co/xqD7L2y][img]https://i.ibb.co/k2xSBGp/Carl.png[/img][/url]
+// [url=https://ibb.co/rHnJpyX][img]https://i.ibb.co/M7qL1NJ/Chester.png[/img][/url]
+// [url=https://ibb.co/cxkqKdk][img]https://i.ibb.co/XVjHfTj/Colette.png[/img][/url]
+// [url=https://ibb.co/HgrfDbx][img]https://i.ibb.co/JkzwRGy/Colt.png[/img][/url]
+// [url=https://ibb.co/HYHP9CP][img]https://i.ibb.co/2PkMpSM/Crow.png[/img][/url]
+// [url=https://ibb.co/wQR7DWy][img]https://i.ibb.co/6tm86PY/Darryl.png[/img][/url]
+// [url=https://ibb.co/crbZ5vp][img]https://i.ibb.co/kS3wnyr/Dynamike.png[/img][/url]
+// [url=https://ibb.co/GtyRGR8][img]https://i.ibb.co/MGr7K7t/Edgar.png[/img][/url]
+// [url=https://ibb.co/cxhp8Sw][img]https://i.ibb.co/QXvqH3k/El-Primo.png[/img][/url]
+// [url=https://ibb.co/6n4QgBn][img]https://i.ibb.co/0Df5htD/Emz.png[/img][/url]
+// [url=https://ibb.co/58SGFZ8][img]https://i.ibb.co/DCvzpdC/Fang.png[/img][/url]
+// [url=https://ibb.co/R6k13pp][img]https://i.ibb.co/gWLGSMM/Gale.png[/img][/url]
+// [url=https://ibb.co/GJsSBv5][img]https://i.ibb.co/xsmTPS7/Gene.png[/img][/url]
+// [url=https://ibb.co/G0SRX8m][img]https://i.ibb.co/s2YqhN7/Gray.png[/img][/url]
+// [url=https://ibb.co/LPpsYv8][img]https://i.ibb.co/X4JGjVb/Griff.png[/img][/url]
+// [url=https://ibb.co/NLQY6dz][img]https://i.ibb.co/Jz0kRwP/Grom.png[/img][/url]
+// [url=https://ibb.co/HK5x8QB][img]https://i.ibb.co/6yj1C5r/Gus.png[/img][/url]
+// [url=https://ibb.co/crZtkNH][img]https://i.ibb.co/NyJptLP/Jacky.png[/img][/url]
+// [url=https://ibb.co/jkhfZqQ][img]https://i.ibb.co/VYV9pbz/Janet.png[/img][/url]
+// [url=https://ibb.co/bvgPYBP][img]https://i.ibb.co/z2hrCRr/Leon.png[/img][/url]
+// [url=https://ibb.co/k21pD2F][img]https://i.ibb.co/xqHygqQ/Lola.png[/img][/url]
+// [url=https://ibb.co/FYc79CJ][img]https://i.ibb.co/Jp8kNg2/Mandy.png[/img][/url]
+// [url=https://ibb.co/744MfK0][img]https://i.ibb.co/Wtt8hfR/Max.png[/img][/url]
+// [url=https://ibb.co/z5YG0Fn][img]https://i.ibb.co/9vLsCh8/Meg.png[/img][/url]
+// [url=https://ibb.co/hyd5z8Y][img]https://i.ibb.co/yXkTjs4/Mortis.png[/img][/url]
+// [url=https://ibb.co/x6XRY3V][img]https://i.ibb.co/dDjzt7n/MrP.png[/img][/url]
+// [url=https://ibb.co/qjPYYQr][img]https://i.ibb.co/JtMjjJs/Nani.png[/img][/url]
+// [url=https://ibb.co/WHYSJMm][img]https://i.ibb.co/GdbgS8z/Nita.png[/img][/url]
+// [url=https://ibb.co/2hLPcPB][img]https://i.ibb.co/nmVfQfS/Otis.png[/img][/url]
+// [url=https://ibb.co/DV5Bdmt][img]https://i.ibb.co/5MBQZC6/Penny.png[/img][/url]
+// [url=https://ibb.co/b3hg14t][img]https://i.ibb.co/0XNjq05/Piper.png[/img][/url]
+// [url=https://ibb.co/k9Mdx6x][img]https://i.ibb.co/yYV3XBX/Poco.png[/img][/url]
+// [url=https://ibb.co/Fb5RZH8][img]https://i.ibb.co/8Dr1vYP/Rico.png[/img][/url]
+// [url=https://ibb.co/tYPPbHM][img]https://i.ibb.co/QYjj6JF/Rosa.png[/img][/url]
+// [url=https://ibb.co/wKCFyKX][img]https://i.ibb.co/nDfNrDv/Ruffs.png[/img][/url]
+// [url=https://ibb.co/44yqY8d][img]https://i.ibb.co/dk9TLPg/Sam.png[/img][/url]
+// [url=https://ibb.co/D9c7QQp][img]https://i.ibb.co/n7dDjjC/Sandy.png[/img][/url]
+// [url=https://ibb.co/ZdcJDZ0][img]https://i.ibb.co/cJ2vnmj/Shelly.png[/img][/url]
+// [url=https://ibb.co/TvFYw1C][img]https://i.ibb.co/zn0QmFk/Spike.png[/img][/url]
+// [url=https://ibb.co/SPDCQG6][img]https://i.ibb.co/L8D7QH0/Sprout.png[/img][/url]
+// [url=https://ibb.co/xmQfD85][img]https://i.ibb.co/vs8QHvz/Squeak.png[/img][/url]
+// [url=https://ibb.co/wYdgc4t][img]https://i.ibb.co/yVNP4q2/Stu.png[/img][/url]
+// [url=https://ibb.co/CBw8DqP][img]https://i.ibb.co/SN6yG2f/Tara.png[/img][/url]
+// [url=https://ibb.co/CQHbJHB][img]https://i.ibb.co/0rGCBGq/Tick.png[/img][/url]
+// [url=https://poetandpoem.com/Carl-Sandburg/poems]carl sandburg most famous poems[/url]
