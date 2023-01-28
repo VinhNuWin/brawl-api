@@ -8,7 +8,7 @@ const brawlers = {
         "range": 7.67,
         "reload": "2.1 seconds",
         "movement": 720,
-        "image": "https://i.ibb.co/CJFMzs0/Squeak.png"
+        "URL": "https://i.ibb.co/CJFMzs0/Squeak.png"
     },
         "Poco": {
             "id": 270241425941586,
@@ -18,7 +18,7 @@ const brawlers = {
             "range": 7,
             "reload": "1.6 seconds",
             "movement": 720,
-            "image": "https://i.ibb.co/tx3d4P4/Poco.png"
+            "URL": "https://i.ibb.co/tx3d4P4/Poco.png"
     },
         "Pam": {
             "id": 7503072122885093,
@@ -28,7 +28,7 @@ const brawlers = {
             "range": 9,
             "reload": "1.3 seconds",
             "movement": 720,
-            "image": "https://i.ibb.co/ryZRGzc/Colt.png"
+            "URL": "https://i.ibb.co/ryZRGzc/Colt.png"
     },
         "Griff": {
             "id": 3322223126098713,
@@ -38,7 +38,7 @@ const brawlers = {
             "range": 8.33,
             "reload": "1.7 seconds",
             "movement": 720,
-            "image": "https://i.ibb.co/8B8QNX0/Griff.png"
+            "URL": "https://i.ibb.co/8B8QNX0/Griff.png"
     },
         "Rico": {
             "id": 3322223126098723,
@@ -48,7 +48,7 @@ const brawlers = {
             "range": 9.67,
             "reload": "1.2 seconds",
             "movement": 720,
-            "image": "https://i.ibb.co/0jCH4sY/Rico.png"
+            "URL": "https://i.ibb.co/0jCH4sY/Rico.png"
     },
         "Barley": {
             "id": 5912603130654450,
@@ -58,7 +58,7 @@ const brawlers = {
             "range": 7.33,
             "reload": "2.0 seconds",
             "movement": 720,
-            "image": "https://i.ibb.co/BGHPCT5/Barley.png"
+            "URL": "https://i.ibb.co/BGHPCT5/Barley.png"
     },
         "Frank": {
             "name": "Frank",
