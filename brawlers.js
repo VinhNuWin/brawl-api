@@ -494,8 +494,29 @@ const brawlers = {
         "movement speed": 720,
         "URL": "https://static.wikia.nocookie.net/brawlstars/images/8/8e/Spike_Skin-Default.png",
         "URL2": "https://static.wikia.nocookie.net/brawlstars/images/2/22/Spike_Portrait.png"
-     ,
-}
+},
+"Mandy": {
+    "id": 9944362334964578,
+    "name": "Mandy",
+    "health": 4200,
+    "attack": 1800,
+    "range": 9,
+    "reload": "1.5 seconds",
+    "movement speed": 720,
+    "URL": "https://static.wikia.nocookie.net/brawlstars/images/9/95/Mandy_Skin-Default.png",
+    "URL2": "https://static.wikia.nocookie.net/brawlstars/images/7/75/Mandy_Portrait.png"
+},
+"Chester": {
+    "id": 270241420141586,
+    "name": "Chester",
+    "health": 4950,
+    "attack": 960,
+    "range": 8.33,
+    "reload": "1.9 seconds",
+    "movement": 770,
+    "URL": "https://static.wikia.nocookie.net/brawlstars/images/4/48/Chester_Skin-Default.png",
+    "URL2": "https://static.wikia.nocookie.net/brawlstars/images/3/38/Chester_Portrait.png"
+},
 }
 module.exports = brawlers;
        
